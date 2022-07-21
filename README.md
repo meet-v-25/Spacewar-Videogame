@@ -1,7 +1,7 @@
 # Spacewar-Videogame
 This is a video game similar to Space-Invader. This is made using pygame library of python language. 
 
-Instructions for Game:
+Instructions for Game:      
 ➢ You have to enter the number of 'Enemies' viz 'Aliens in UFOs' and the speed of the enemies.    
 ➢ You have a 'Player' viz 'Space Ship' in the bottom part of the screen.    
 ➢ The enemies do nothing but float around.    
